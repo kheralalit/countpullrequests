@@ -1,1 +1,247 @@
-
+[
+  {
+    "pull_request_num": 6972,
+    "pull_request_raised_by": "ridemountainpig",
+    "state_of_pull_request": "open",
+    "pull_request_created_at": "2022-08-06T03:59:57Z",
+    "pull_request_closed_at": null
+  },
+  {
+    "pull_request_num": 6971,
+    "pull_request_raised_by": "basil",
+    "state_of_pull_request": "open",
+    "pull_request_created_at": "2022-08-06T00:58:30Z",
+    "pull_request_closed_at": null
+  },
+  {
+    "pull_request_num": 6970,
+    "pull_request_raised_by": "ridemountainpig",
+    "state_of_pull_request": "open",
+    "pull_request_created_at": "2022-08-05T07:46:19Z",
+    "pull_request_closed_at": null
+  },
+  {
+    "pull_request_num": 6969,
+    "pull_request_raised_by": "ridemountainpig",
+    "state_of_pull_request": "open",
+    "pull_request_created_at": "2022-08-05T04:08:46Z",
+    "pull_request_closed_at": null
+  },
+  {
+    "pull_request_num": 6968,
+    "pull_request_raised_by": "frankie139506",
+    "state_of_pull_request": "open",
+    "pull_request_created_at": "2022-08-05T01:34:24Z",
+    "pull_request_closed_at": null
+  },
+  {
+    "pull_request_num": 6967,
+    "pull_request_raised_by": "daniel-beck",
+    "state_of_pull_request": "open",
+    "pull_request_created_at": "2022-08-04T20:43:47Z",
+    "pull_request_closed_at": null
+  },
+  {
+    "pull_request_num": 6966,
+    "pull_request_raised_by": "Langer0416",
+    "state_of_pull_request": "open",
+    "pull_request_created_at": "2022-08-04T20:25:20Z",
+    "pull_request_closed_at": null
+  },
+  {
+    "pull_request_num": 6963,
+    "pull_request_raised_by": "ridemountainpig",
+    "state_of_pull_request": "open",
+    "pull_request_created_at": "2022-08-04T12:52:26Z",
+    "pull_request_closed_at": null
+  },
+  {
+    "pull_request_num": 6962,
+    "pull_request_raised_by": "ridemountainpig",
+    "state_of_pull_request": "open",
+    "pull_request_created_at": "2022-08-04T06:23:25Z",
+    "pull_request_closed_at": null
+  },
+  {
+    "pull_request_num": 6961,
+    "pull_request_raised_by": "ridemountainpig",
+    "state_of_pull_request": "open",
+    "pull_request_created_at": "2022-08-03T15:10:44Z",
+    "pull_request_closed_at": null
+  },
+  {
+    "pull_request_num": 6959,
+    "pull_request_raised_by": "daniel-beck",
+    "state_of_pull_request": "open",
+    "pull_request_created_at": "2022-08-02T20:38:39Z",
+    "pull_request_closed_at": null
+  },
+  {
+    "pull_request_num": 6958,
+    "pull_request_raised_by": "ridemountainpig",
+    "state_of_pull_request": "open",
+    "pull_request_created_at": "2022-08-02T17:33:32Z",
+    "pull_request_closed_at": null
+  },
+  {
+    "pull_request_num": 6957,
+    "pull_request_raised_by": "frankie139506",
+    "state_of_pull_request": "open",
+    "pull_request_created_at": "2022-08-02T11:08:44Z",
+    "pull_request_closed_at": null
+  },
+  {
+    "pull_request_num": 6951,
+    "pull_request_raised_by": "mawinter69",
+    "state_of_pull_request": "open",
+    "pull_request_created_at": "2022-08-01T16:55:56Z",
+    "pull_request_closed_at": null
+  },
+  {
+    "pull_request_num": 6948,
+    "pull_request_raised_by": "jtnord",
+    "state_of_pull_request": "open",
+    "pull_request_created_at": "2022-08-01T12:55:26Z",
+    "pull_request_closed_at": null
+  },
+  {
+    "pull_request_num": 6965,
+    "pull_request_raised_by": "scherler",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-08-04T20:04:11Z",
+    "pull_request_closed_at": "2022-08-05T14:49:42Z"
+  },
+  {
+    "pull_request_num": 6964,
+    "pull_request_raised_by": "dependabot[bot]",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-08-04T12:56:30Z",
+    "pull_request_closed_at": "2022-08-04T21:35:14Z"
+  },
+  {
+    "pull_request_num": 6960,
+    "pull_request_raised_by": "NotMyFault",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-08-03T08:16:44Z",
+    "pull_request_closed_at": "2022-08-03T14:41:54Z"
+  },
+  {
+    "pull_request_num": 6956,
+    "pull_request_raised_by": "Langer0416",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-08-02T05:40:09Z",
+    "pull_request_closed_at": "2022-08-03T16:01:00Z"
+  },
+  {
+    "pull_request_num": 6955,
+    "pull_request_raised_by": "olamy",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-08-02T04:32:45Z",
+    "pull_request_closed_at": "2022-08-02T18:37:51Z"
+  },
+  {
+    "pull_request_num": 6954,
+    "pull_request_raised_by": "dependabot[bot]",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-08-02T02:26:49Z",
+    "pull_request_closed_at": "2022-08-02T02:46:49Z"
+  },
+  {
+    "pull_request_num": 6953,
+    "pull_request_raised_by": "renovate[bot]",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-08-01T21:35:51Z",
+    "pull_request_closed_at": "2022-08-05T15:03:36Z"
+  },
+  {
+    "pull_request_num": 6952,
+    "pull_request_raised_by": "basil",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-08-01T17:13:13Z",
+    "pull_request_closed_at": "2022-08-01T18:39:16Z"
+  },
+  {
+    "pull_request_num": 6950,
+    "pull_request_raised_by": "basil",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-08-01T16:38:56Z",
+    "pull_request_closed_at": "2022-08-01T16:50:07Z"
+  },
+  {
+    "pull_request_num": 6949,
+    "pull_request_raised_by": "basil",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-08-01T16:07:12Z",
+    "pull_request_closed_at": "2022-08-01T16:46:02Z"
+  },
+  {
+    "pull_request_num": 6947,
+    "pull_request_raised_by": "renovate[bot]",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-08-01T06:02:22Z",
+    "pull_request_closed_at": "2022-08-02T02:44:25Z"
+  },
+  {
+    "pull_request_num": 6946,
+    "pull_request_raised_by": "dependabot[bot]",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-07-31T21:13:46Z",
+    "pull_request_closed_at": "2022-08-01T16:31:14Z"
+  },
+  {
+    "pull_request_num": 6945,
+    "pull_request_raised_by": "MarcosDaNight",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-07-31T20:53:14Z",
+    "pull_request_closed_at": "2022-08-01T03:28:53Z"
+  },
+  {
+    "pull_request_num": 6944,
+    "pull_request_raised_by": "MarcosDaNight",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-07-31T20:43:48Z",
+    "pull_request_closed_at": "2022-08-01T03:28:56Z"
+  },
+  {
+    "pull_request_num": 6943,
+    "pull_request_raised_by": "MarcosDaNight",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-07-31T20:30:40Z",
+    "pull_request_closed_at": "2022-07-31T20:30:47Z"
+  },
+  {
+    "pull_request_num": 6942,
+    "pull_request_raised_by": "frankie139506",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-07-31T02:31:15Z",
+    "pull_request_closed_at": "2022-07-31T20:55:35Z"
+  },
+  {
+    "pull_request_num": 6941,
+    "pull_request_raised_by": "dependabot[bot]",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-07-31T02:25:41Z",
+    "pull_request_closed_at": "2022-07-31T20:55:27Z"
+  },
+  {
+    "pull_request_num": 6940,
+    "pull_request_raised_by": "basil",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-07-31T00:31:57Z",
+    "pull_request_closed_at": "2022-07-31T20:55:14Z"
+  },
+  {
+    "pull_request_num": 6939,
+    "pull_request_raised_by": "basil",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-07-30T23:34:57Z",
+    "pull_request_closed_at": "2022-07-31T02:28:59Z"
+  },
+  {
+    "pull_request_num": 6938,
+    "pull_request_raised_by": "basil",
+    "state_of_pull_request": "close",
+    "pull_request_created_at": "2022-07-30T19:58:39Z",
+    "pull_request_closed_at": "2022-07-31T20:55:05Z"
+  }
+]
